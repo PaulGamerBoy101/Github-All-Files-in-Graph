@@ -18,3 +18,8 @@ The Graph is a Donut Chart, and Includes All File Types Excluding Image File Typ
 * #### Replace the Item in the Following Entry With Your Github Token:
 
 ``` const GITHUB_TOKEN = 'YOUR_GITHUB_TOKEN'; ```
+
+## Screenshot:
+
+![screenshot-of-tampermoney-script](https://github.com/user-attachments/assets/d5f5835c-080f-4386-b017-bf729fe1ff05)
+
