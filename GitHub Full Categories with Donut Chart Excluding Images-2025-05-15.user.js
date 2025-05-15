@@ -14,7 +14,7 @@
     'use strict';
 
     // Optional: Hardcode your GitHub personal access token here
-    const GITHUB_TOKEN = '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'; // Replace or remove for public repos
+    const GITHUB_TOKEN = 'YOUR_GITHUB_TOKEN'; // Replace or remove for public repos
     const headers = GITHUB_TOKEN ? { 'Authorization': `token ${GITHUB_TOKEN}` } : {};
 
     // Define image file extensions to exclude from chart
