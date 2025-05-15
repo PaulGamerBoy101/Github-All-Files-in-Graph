@@ -1,4 +1,4 @@
-# Github-All-Files-in-Graph
+# Github: All Files in Graph
 > A Tampermonkey Script to Show all File Types in a Graph (Except for Image File Types as the Image Sizes Vary Too Much)
 
 ## The Table:
